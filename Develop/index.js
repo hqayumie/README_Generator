@@ -10,13 +10,10 @@ console.log("Answer the following questions to create a high quality README for 
 
 //array of questions
 const questions = [
-
-    //prompting questions by using inquirer
-    // return inquirer.prompt([
     {
         type: "input",
         message: "what is your Github username?",
-        name: "username",
+        name: "github",
         validate: nameInput => {
             if (nameInput) {
                 return true;
@@ -95,7 +92,7 @@ const questions = [
     {
         type: "input",
         message: "What does the user need to know about using the repo?",
-        name: "repo-info",
+        name: "usage",
     },
     {
         type: "input",
