@@ -1,10 +1,7 @@
-# README
+# README Generator
  
-  
-
-  
   ## Description 
-  repo developed to generate a readme
+  this is the generated README deployed with node.js
   
   
   ## Table of Contents
@@ -23,14 +20,14 @@
 
   ## Tests
   npm test
-  
+
   ## Usage
-  undefined
+  the repo was developed to generate a quick and easy professional readme 
 
 ## Contributing 
 
   How to contribute to this Repo
-  point out any issues or bugs
+  the user can contribute by pointing out any bugs or issues
  
   
   

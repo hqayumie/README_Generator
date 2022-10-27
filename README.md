@@ -7,3 +7,5 @@ This assignment is meant to create a high-qualit README file for the user using 
 ## Installation
 
 To run this program you can clone the repo from Git Hub and then use the comand npm i to download the projects npm dependencies.Once that is completed you can run the program by entering the following command in your terminal: node index.js
+
+<a href="https://drive.google.com/file/d/1Xo1WJ50OFcUlZtSdO11LPd2n8LDpBauv/view">Screencastify</a> 
